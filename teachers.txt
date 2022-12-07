@@ -1,0 +1,2 @@
+1, Sokolov Ivan, Male, 38, MD, medical
+2, Ryazanov Maxim, Male, 45, D, physics

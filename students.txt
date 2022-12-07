@@ -1,0 +1,3 @@
+1, Ivanov Ivan, Male, 20, medical, A201
+2, Sidorova Elena, Female, 19, medical, A202
+3, Petrov Egor, Male, 21, physics, A205
